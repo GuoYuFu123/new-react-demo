@@ -1,9 +1,4 @@
-# 阿凡题题库录题系统前端
-
-
-## 介绍
-
-此为阿凡题题库的录题系统前端项目，技术栈为React全家桶+AntD，其中React版本为16.4以上，React Router为4.0以上，Redux为4.0以上，Webpack也为4.0以上。
+# new-react-demo
 
 ## 关于React的生命周期变动
 
