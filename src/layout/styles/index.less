@@ -1,0 +1,33 @@
+
+.layout-box {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    // 顶部
+    .layout-top {
+        height: 50px;
+        background: orange;
+    }
+    
+    .layout-contenter{
+        flex: 1;
+        background: green;
+        display: flex;
+        .side {
+            width: 200px;
+            background: red;
+        }
+        .layout-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            .tag-box {
+                height: 30px;
+                background: cyan;
+            }
+            .contenter {
+                padding: 10px;
+            }
+        }
+    }
+}

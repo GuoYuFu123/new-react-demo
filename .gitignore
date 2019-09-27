@@ -1,0 +1,9 @@
+dist/*
+package-lock.json
+node_modules/*
+.vscode/*
+
+# Mac General
+.DS_Store
+.AppleDouble
+.LSOverride
